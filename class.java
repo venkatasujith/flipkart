@@ -1,2 +1,3 @@
 hi 
-java empty file
+know i'm trying to clean files from working area
+
