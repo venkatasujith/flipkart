@@ -1,5 +1,6 @@
 
 .db
+.sc
 .project
 .classpath
 /node_modules
